@@ -2,6 +2,8 @@
 
 > ChatGPT (gpt‑3.5‑turbo) · Llama 3.2 (8 B, Ollama) · DeepSeek‑R1 1.5 B (Ollama)
 
+![Comparison](./ChatGPT%20vs.%20Llama3.2%20vs.%20DeepSeek%20image.png)
+
 ### 📌 Goal
 Measure accuracy, qualitative depth, and latency when the **same financial‑news feed** is processed by three different LLM stacks. 
 The financial news will be sourced from feeds.finance.yahoo.com.
@@ -15,7 +17,7 @@ The financial news will be sourced from feeds.finance.yahoo.com.
 
 ### 🗂 Findings
 
-
+![Comparison Results](./Comparison%20Results.JPG)
 
 ### 📝 Take‑aways
 
