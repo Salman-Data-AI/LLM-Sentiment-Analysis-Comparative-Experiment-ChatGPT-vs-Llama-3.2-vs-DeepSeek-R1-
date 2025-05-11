@@ -15,9 +15,15 @@ The financial news will be sourced from feeds.finance.yahoo.com.
 | Local models | `Ollama` (Llama 3.2 Q4_0 · DeepSeek‑R1 1.5 B Q4_0) |
 | Cloud model | OpenAI `gpt‑3.5‑turbo` |
 
+### The Process
+- Procured financial headlines and news from yahoo finance.
+- Used ChatGPT, Llama3.2 and DeepSeek individually to generate summary of the obtained content. 
+- The results were put in a tabular format with the columns: date, headline, summary, sentiment, url.
+- The sentiment is classified into bullish, neutral and bearish.
+
 ### 🗂 Findings
 
-![Comparison Results](./Comparison%20Results.JPG)
+![image](https://github.com/user-attachments/assets/da4bd028-f2e3-433b-baa2-e280cc9a9449)
 
 ### 📝 Take‑aways
 
